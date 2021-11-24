@@ -105,6 +105,10 @@ There are two general approaches to investing: active and passive. Active invest
 **<a id="brokers-canadian"></a>BROKERS & TRADING SOFTWARE (Canadian):**
 - [Interactive Brokers](https://www1.interactivebrokers.com/en/home.php)
 - [Questrade](https://www.questrade.com/)
+- [TD WebBroker](https://www.td.com/ca/en/investing/direct-investing/trading/webbroker/)
+- [RBC Direct Investment](https://www.rbcdirectinvesting.com/)
+- [Scotia iTrade](https://www.scotiaitrade.com/en/home.html)
+- [BMO Investorline](https://www.bmo.com/main/personal/investments/online-investing/investorline/self-directed/)
 ###### [TOC](#toc)
 
 **<a id="brokers-european"></a>BROKERS & TRADING SOFTWARE (European):**
@@ -232,8 +236,12 @@ There are two general approaches to investing: active and passive. Active invest
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
 - [SocialSentiment.io - Social Media Sentiment Analysis](https://socialsentiment.io/)
-- [senatestockwatcher.com - Senate Stock Watcher](https://senatestockwatcher.com/)
+- [Senatestockwatcher.com - Senate Stock Watcher](https://senatestockwatcher.com/)
 - [Ortex.com - ORTEX](https://www.ortex.com)
+- [Chartmill - ORTEX](https://www.chartmill.com/home)
+- [TradingView](https://www.tradingview.com)
+- [barchart](https://www.barchart.com/ca/stocks/stocks-screener)
+
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
